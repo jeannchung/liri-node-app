@@ -5,6 +5,8 @@ LIRI is a command line node app that takes in parameters and returns data to a u
 
 ## Walkthrough
 
+# Disclaimer: Have yet to find a reliable method to redirect users to the relevant prompt when an error is thrown due to a certain song, artist, movie not being available in their respective API's db.
+
 ### Initialization
 
 * User initializes the program with `node liri.js init`
