@@ -5,11 +5,15 @@ LIRI is a command line node app that takes in parameters and returns data to a u
 
 ## Walkthrough
 
+### Initialization
+
 * User initializes the program with `node liri.js init`
 
   ![Image of Initialization](https://raw.githubusercontent.com/jeannchung/liri-node-app/master/images/init.png)
 
 * User then decides whether he/she wants to search for a `song`, `movie`, or an `artist's next concert`.
+
+### Search for a song
 
 * If the user decides to search for a `song`, the program returns 3 unique results which include the `artist`, `song name`, a `preview url`, and the `album` from where it's from.
 
@@ -43,6 +47,8 @@ LIRI is a command line node app that takes in parameters and returns data to a u
 
 ![Image of result logging](https://raw.githubusercontent.com/jeannchung/liri-node-app/master/images/resultlog1.png)
 
+### Search for a movie
+
 * In the scenario that the user decides to search for a `movie`, they are prompted for a movie name.
 
  ![Image of movie search prompt](https://raw.githubusercontent.com/jeannchung/liri-node-app/master/images/movieprompt.png)
@@ -54,6 +60,8 @@ LIRI is a command line node app that takes in parameters and returns data to a u
 * Results are logged.
 
 ![Image of logging movie search result](https://raw.githubusercontent.com/jeannchung/liri-node-app/master/images/movieresultslog.png)
+
+### Search for artist concert
 
 * In the final scenario where the user decides to search for an `artist's next concert`, they are prompted for an artist.
 
