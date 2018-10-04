@@ -7,7 +7,7 @@ LIRI is a command line node app that takes in parameters and returns data to a u
 
 * User initializes the program with `node liri.js init`
 
-  ![Image of Initialization](https://gyazo.com/f374dd897147d6b412c4ecc1385883a8)
+  ![Image of Initialization](https://raw.githubusercontent.com/jeannchung/liri-node-app/master/images/init.png)
 
 * User then decides whether he/she wants to search for a `song`, `movie`, or an `artist's next concert`.
 
