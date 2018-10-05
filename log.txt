@@ -1,0 +1,290 @@
+
+        Your Spotify Search Results
+
+        Result 1
+        --------------------
+        Artist: 2 Chainz
+        Song Name: Watch Out
+        Preview: null
+        Album: Watch Out
+        --------------------
+        Result 2
+        --------------------
+        Artist: Rich Brian
+        Song Name: watch out!
+        Preview: https://p.scdn.co/mp3-preview/907a7ca5b25c43f712fdc241f39ba2abfaa874fa?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: watch out!
+        --------------------
+        Result 3
+        --------------------
+        Artist: Major Lazer
+        Song Name: Watch Out For This (Bumaye)
+        Preview: https://p.scdn.co/mp3-preview/bc7e87e16965aa12eba9de9732b9b3a9a5670575?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Free The Universe (Extended Version)
+        
+        
+        Your movie search results
+
+        --------------------
+        Made Men: The 'GoodFellas' Legacy
+        Year: 2004
+        Rating: N/A
+        Rotten Tomatoes: 
+        Country: USA
+        Language: English
+        Plot: N/A
+        Actors: Jon Favreau, Albert Hughes, Allen Hughes, Joe Carnahan
+        --------------------
+        
+        
+        Your artist search results
+        --------------------
+        Venue: iHeartRadio ALTer Ego 2019
+        Location: Los Angeles
+        Date: 01 19th 2019
+        --------------------
+
+        
+        Your Spotify Search Results
+
+        Result 1
+        --------------------
+        Artist: Jai Wolf
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight
+        --------------------
+        Result 2
+        --------------------
+        Artist: Muse
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Black Holes And Revelations
+        --------------------
+        Result 3
+        --------------------
+        Artist: Steffany Gretzinger
+        Song Name: King of My Heart (Live)
+        Preview: https://p.scdn.co/mp3-preview/09ecf3e556df7b692c8915859e5f9e3db2af25e4?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight (Live)
+        
+        
+        Your artist search results
+        --------------------
+        Venue: iHeartRadio ALTer Ego 2019
+        Location: Los Angeles
+        Date: 01 19th 2019
+        --------------------
+
+        
+        Your Spotify Search Results
+
+        Result 1
+        --------------------
+        Artist: Jai Wolf
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight
+        --------------------
+        Result 2
+        --------------------
+        Artist: Muse
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Black Holes And Revelations
+        --------------------
+        Result 3
+        --------------------
+        Artist: Steffany Gretzinger
+        Song Name: King of My Heart (Live)
+        Preview: https://p.scdn.co/mp3-preview/09ecf3e556df7b692c8915859e5f9e3db2af25e4?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight (Live)
+        
+        
+        Your Spotify Search Results
+
+        Result 1
+        --------------------
+        Artist: Jai Wolf
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight
+        --------------------
+        Result 2
+        --------------------
+        Artist: Muse
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Black Holes And Revelations
+        --------------------
+        Result 3
+        --------------------
+        Artist: Steffany Gretzinger
+        Song Name: King of My Heart (Live)
+        Preview: https://p.scdn.co/mp3-preview/09ecf3e556df7b692c8915859e5f9e3db2af25e4?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight (Live)
+        
+        
+        Your movie search results
+
+        --------------------
+        undefined
+        Year: undefined
+        Rating: undefined
+        Rotten Tomatoes: 
+        Country: undefined
+        Language: undefined
+        Plot: undefined
+        Actors: undefined
+        --------------------
+        
+        
+        Your movie search results
+
+        --------------------
+        undefined
+        Year: undefined
+        Rating: undefined
+        Rotten Tomatoes: 
+        Country: undefined
+        Language: undefined
+        Plot: undefined
+        Actors: undefined
+        --------------------
+        
+        
+        Your movie search results
+        --------------------
+        Titanic
+        Year: 1997
+        Rating: PG-13
+        Rotten Tomatoes: 
+        Country: USA
+        Language: English, Swedish
+        Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+        Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+        --------------------
+        
+        
+        Your movie search results
+        --------------------
+        Titanic
+        Year: 1997
+        Rating: PG-13
+        Rotten Tomatoes: 
+        Country: USA
+        Language: English, Swedish
+        Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+        Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+        --------------------
+        
+        
+        Your movie search results
+        --------------------
+        Made Men: The 'GoodFellas' Legacy
+        Year: 2004
+        Rating: N/A
+        Rotten Tomatoes: 
+        Country: USA
+        Language: English
+        Plot: N/A
+        Actors: Jon Favreau, Albert Hughes, Allen Hughes, Joe Carnahan
+        --------------------
+        
+        
+        Your Spotify Search Results
+        Result 1
+        --------------------
+        Artist: Jai Wolf
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight
+        --------------------
+        Result 2
+        --------------------
+        Artist: Muse
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Black Holes And Revelations
+        --------------------
+        Result 3
+        --------------------
+        Artist: Steffany Gretzinger
+        Song Name: King of My Heart (Live)
+        Preview: https://p.scdn.co/mp3-preview/09ecf3e556df7b692c8915859e5f9e3db2af25e4?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight (Live)
+        
+        
+        Your artist search results
+        --------------------
+        Venue: iHeartRadio ALTer Ego 2019
+        Location: Los Angeles
+        Date: 01 19th 2019
+        --------------------
+        
+        Your Spotify Search Results
+        Result 1
+        --------------------
+        Artist: Jai Wolf
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight
+        --------------------
+        Result 2
+        --------------------
+        Artist: Muse
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Black Holes And Revelations
+        --------------------
+        Result 3
+        --------------------
+        Artist: Steffany Gretzinger
+        Song Name: King of My Heart (Live)
+        Preview: https://p.scdn.co/mp3-preview/09ecf3e556df7b692c8915859e5f9e3db2af25e4?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight (Live)
+        
+        
+        Your Spotify Search Results
+        Result 1
+        --------------------
+        Artist: Jai Wolf
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight
+        --------------------
+        Result 2
+        --------------------
+        Artist: Muse
+        Song Name: Starlight
+        Preview: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Black Holes And Revelations
+        --------------------
+        Result 3
+        --------------------
+        Artist: Steffany Gretzinger
+        Song Name: King of My Heart (Live)
+        Preview: https://p.scdn.co/mp3-preview/09ecf3e556df7b692c8915859e5f9e3db2af25e4?cid=e8ca001c7b774c21a083b17d6dbb6525
+        Album: Starlight (Live)
+        
+        
+        Your movie search results
+        --------------------
+        Titanic
+        Year: 1997
+        Rating: PG-13
+        Rotten Tomatoes: 
+        Country: USA
+        Language: English, Swedish
+        Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+        Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+        --------------------
+        
+        
+        Your artist search results
+        --------------------
+        Venue: iHeartRadio ALTer Ego 2019
+        Location: Los Angeles
+        Date: 01 19th 2019
+        --------------------
+        
