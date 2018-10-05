@@ -81,7 +81,7 @@ const omdb = movie => {
 // bandsintown logic
 const bands = artist => {
     const moment = require('moment');
-    request(`https://rest.bandsintown.com/artists/${artist}/events?app_id=codingbootcamp`, (e, r, d) => {
+    request(`https://rest.bandsintown.com/artists/${artist}/events?app_id=c5e9dfcb9e062e4d4ea8efe0f54c4a0b`, (e, r, d) => {
         if (e) { console.log(e) }
         // adjust code to list name of venue, its location, and date
         const info = JSON.parse(d)

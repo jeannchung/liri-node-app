@@ -69,3 +69,11 @@
         Album: Starlight (Live)
         
         
+        Your artist search results
+        --------------------
+        Venue: iHeartRadio ALTer Ego 2019
+        Location: Los Angeles
+        Date: 01 19th 2019
+        --------------------
+
+        
