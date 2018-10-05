@@ -1,5 +1,5 @@
 const request = require('request')
-require('dotenv').config
+require('dotenv').config()
 const keys = require('./keys.js')
 const fs = require('fs')
 const inq = require('inquirer')
@@ -9,8 +9,8 @@ const inq = require('inquirer')
 const spotify = song => {
     let Spotify = require('node-spotify-api')
     let spotify = new Spotify({
-        id: 'e8ca001c7b774c21a083b17d6dbb6525',
-        secret: '5dece8e9468a4efea788b5ecce159375'
+        id: keys.spotify.id,
+        secret: keys.spotify.secret
     })
 
     spotify.search({
@@ -20,7 +20,6 @@ const spotify = song => {
         if (e) { console.log(e) }
         const data = `
         Your Spotify Search Results
-
         Result 1
         --------------------
         Artist: ${d.tracks.items[0].artists[0].name}
@@ -52,13 +51,12 @@ const spotify = song => {
 
 // omdb logic
 const omdb = movie => {
-    request(`http://www.omdbapi.com/?t=${movie}&apikey=trilogy`, (e, r, d) => {
+    request(`http://www.omdbapi.com/?t=${movie}&apikey=${keys.omdb.id}`, (e, r, d) => {
         if (e) { console.log(e) }
         const movie = JSON.parse(d)
         // the data returns as string, but we want it in an object
         const data = `
         Your movie search results
-
         --------------------
         ${movie.Title}
         Year: ${movie.Year}
@@ -81,7 +79,7 @@ const omdb = movie => {
 // bandsintown logic
 const bands = artist => {
     const moment = require('moment');
-    request(`https://rest.bandsintown.com/artists/${artist}/events?app_id=c5e9dfcb9e062e4d4ea8efe0f54c4a0b`, (e, r, d) => {
+    request(`https://rest.bandsintown.com/artists/${artist}/events?app_id=${keys.bit.id}`, (e, r, d) => {
         if (e) { console.log(e) }
         // adjust code to list name of venue, its location, and date
         const info = JSON.parse(d)
@@ -92,7 +90,6 @@ const bands = artist => {
         Location: ${info[0].venue.city}
         Date: ${moment(info[0].datetime).format('MM Do YYYY')}
         --------------------
-
         `
         console.log(data)
        // certain artists don't return results and ultimately break program
@@ -175,4 +172,3 @@ const runApp = () => {
 }
 
 runApp()
-
